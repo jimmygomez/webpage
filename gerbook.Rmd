@@ -1,5 +1,7 @@
 
 ```{r, echo=FALSE}
-knitr::include_url("https://flavjack.github.io/GermBook/", height = "600px")
+
+shiny::tags$iframe(src = "https://flavjack.github.io/GermBook/", style="height:600px; width:100%; scrolling=yes")
+
 ```
 

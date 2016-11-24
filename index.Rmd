@@ -4,7 +4,7 @@ title: "Welcome"
 
 Hello, these Website was build for share information about programming and statistics in agricultural and biological areas with free and open source software.
 
-# GerminaR package
+## GerminaR package
 
-GerminaR is a R package development for studies the germination process for ecophysiological, agronomic and biological studies. This package have their interactive app **GerminaQuant for R** developed in shiny for statisical and graphic analisys.
+GerminaR is a R package development for studies the germination process for ecophysiological, agronomic and biological studies. This package have their interactive app **GerminaQuant for R** developed in shiny for statistical and graphic analysis.  
 
