@@ -6,9 +6,14 @@ navbar:
     - text: "Home"
       icon: fa-home
       href: index.html
+    - text: "Gerbook"
+      icon: fa-leaf
+      href: gerbook.html
     - text: "About"
       icon: fa-info
       href: about.html
+
+      
 output:
   html_document:
     theme: cosmo

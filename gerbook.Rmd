@@ -1,0 +1,5 @@
+
+```{r, echo=FALSE}
+knitr::include_url("https://flavjack.github.io/GermBook/", height = "500px")
+```
+
