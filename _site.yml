@@ -9,6 +9,9 @@ navbar:
     - text: "Gerbook"
       icon: fa-leaf
       href: gerbook.html
+    - text: "Quibook"
+      icon: fa-book
+      href: quibook.html
     - text: "About"
       icon: fa-info
       href: about.html
