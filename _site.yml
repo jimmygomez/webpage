@@ -6,10 +6,10 @@ navbar:
     - text: "Home"
       icon: fa-home
       href: index.html
-    - text: "Gerbook"
+    - text: "GerminaQuant"
       icon: fa-leaf
       href: gerbook.html
-    - text: "Quibook"
+    - text: "Quipu 2.0"
       icon: fa-book
       href: quibook.html
     - text: "About"

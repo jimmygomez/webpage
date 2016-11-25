@@ -6,11 +6,11 @@ This Website was build for share information about programming and statistics in
 
 ## GerminaR package
 
-GerminaR is a R package development for study the germination process for ecophysiological, agronomic and biological studies. This package has their interactive app (build with shiny) *GerminaQuant for R* for statistical and graphic analysis of germination.
+GerminaR is a R package development for study the germination process for ecophysiological, agronomic and biological studies. This package has their interactive app (build with shiny) **GerminaQuant for R** for statistical and graphic analysis of germination.
 
 
 ## Projects
 
-- Quipu 2.0 (**in progress**)
+- Quipu 2.0 (*in progress*)
 
 Quipu 2.0 is a book base in experiencd with data manipulation, collection and analisys with R and using others free softwares. 
