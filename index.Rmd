@@ -2,6 +2,16 @@
 title: "Welcome"
 ---
 
+```{r, echo=FALSE}
+
+shiny::includeHTML("icon.html")
+
+```
+
+
+
+
+
 Hello, these Website was build for share information about programming and statistics in agricultural and biological areas with free and open source software.
 
 ## GerminaR package

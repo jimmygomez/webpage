@@ -3,7 +3,6 @@ title: "GerminaQuant"
 ---
 
 
-
 ```{r, echo=FALSE}
 
 shiny::includeHTML("gb.html")
