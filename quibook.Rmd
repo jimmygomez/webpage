@@ -1,5 +1,5 @@
 ---
-title: "Quipu Book"
+title: "Quipu 2.0"
 ---
 
 

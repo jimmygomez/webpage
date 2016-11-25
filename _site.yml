@@ -1,7 +1,7 @@
 name: "my-website"
 output_dir: "docs"
 navbar:
-  title: "Quipo 2.0"
+  title: "QUIPO"
   left:
     - text: "Home"
       icon: fa-home
