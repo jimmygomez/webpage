@@ -1,7 +1,12 @@
+---
+title: "GerminaQuant"
+---
+
+
 
 ```{r, echo=FALSE}
 
-shiny::tags$iframe(src = "https://flavjack.github.io/GermBook/", style="height:600px; width:100%; scrolling=yes")
+shiny::includeHTML("gb.html")
 
 ```
 
