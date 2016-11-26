@@ -4,13 +4,20 @@ title: "Welcome"
 
 This Website was build for share information about programming and statistics in agricultural and biological areas using free and open source softwares.
 
+# Softwares used for develop
+
+- [R](https://cran.rstudio.com/)
+- [R Studio](https://www.rstudio.com/products/rstudio/download/)
+- [Github desktop](https://desktop.github.com/)
+- [Mendely](https://www.mendeley.com/)
+
+# Projects
+
 ## GerminaR package
 
 GerminaR is a R package development for study the germination process for ecophysiological, agronomic and biological studies. This package has their interactive app (build with shiny) **GerminaQuant for R** for statistical and graphic analysis of germination.
 
 
-## Projects
+## Quipu 2.0 (*in progress*)
 
-- Quipu 2.0 (*in progress*)
-
-Quipu 2.0 is a book base in experiencd with data manipulation, collection and analisys with R and using others free softwares. 
+Quipu 2.0 is a book base in experience with data manipulation, collection and analisys with R and using others free softwares. Thise book will be write en spanish, because there are a many people interest in learn R but a lot the information is in english, so these book pretend help these persons.

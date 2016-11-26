@@ -8,3 +8,4 @@ I´m a professional of agricultural sciences, specializing in research and data 
 knitr::include_graphics("img/flavio.jpg")
 ```
 
+

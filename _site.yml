@@ -24,4 +24,4 @@ output:
     include:
       in_header: icon.html
       after_body: footer.html
-    css: styles.css
+    css: [styles.css, footer.css]
