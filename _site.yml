@@ -23,5 +23,4 @@ output:
     highlight: textmate
     include:
       in_header: icon.html
-      after_body: footer.html
     css: [styles.css, footer.css]
