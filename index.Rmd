@@ -2,7 +2,7 @@
 title: "Quipo"
 ---
 
-This Website was build for share information about programming and statistics in agricultural and biological areas using free and open source softwares.
+This website was build for share information about programming and statistics in agricultural and biological areas using free and open source softwares.
 
 # Softwares used for develop
 
