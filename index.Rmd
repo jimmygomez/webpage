@@ -24,7 +24,5 @@ Quipu 2.0 is a book base in experience with data manipulation, collection and an
 
 
 ```{r, echo=FALSE}
-
 shiny::includeHTML("footer.html")
-
 ```
