@@ -13,7 +13,7 @@ navbar:
       icon: fa-book
       href: quibook.html
     - text: "Elisios"
-      icon: fa-book
+      icon: fa-wrench
       href: elisios.html
     - text: "About"
       icon: fa-info
@@ -26,4 +26,4 @@ output:
     highlight: textmate
     include:
       in_header: icon.html
-    css: styles.css
+    css: [styles.css, footer.css]
