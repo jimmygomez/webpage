@@ -12,6 +12,9 @@ navbar:
     - text: "Quipu 2.0"
       icon: fa-book
       href: quibook.html
+    - text: "Elisios"
+      icon: fa-book
+      href: elisios.html
     - text: "About"
       icon: fa-info
       href: about.html
@@ -23,4 +26,4 @@ output:
     highlight: textmate
     include:
       in_header: icon.html
-    css: [styles.css, footer.css]
+    css: styles.css

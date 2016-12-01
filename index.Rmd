@@ -23,6 +23,11 @@ GerminaR is a R package development for study the germination process for ecophy
 Quipu 2.0 is a book base in experience with data manipulation, collection and analisys with R and using others free softwares. Thise book will be write en spanish, because there are a many people interest in learn R but a lot the information is in english, so these book pretend help these persons.
 
 
+## Elisios (*in progress*)
+
+Elisios is a web application develop for calculate the water requirements for crops according the weater information. Elisios will have the possibility to conect at metereological estation based in arduino.
+
+
 ```{r, echo=FALSE}
 shiny::includeHTML("footer.html")
 ```
