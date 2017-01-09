@@ -2,7 +2,7 @@
 title: "Quipo"
 ---
 
-This website was build for share information about programming and statistics in agricultural and biological areas using free and open source softwares.
+This website was build for share information about programming and statistics in agricultural and biological areas using free and open source software's.
 
 # Softwares used for develop
 
@@ -13,19 +13,27 @@ This website was build for share information about programming and statistics in
 
 # Projects
 
-## GerminaR package
+## GerminaR package (realesed in CRAN)
 
 GerminaR is a R package development for study the germination process for ecophysiological, agronomic and biological studies. This package has their interactive app (build with shiny) **GerminaQuant for R** for statistical and graphic analysis of germination.
 
+## Sapiens (*in progress*)
+
+Sapiens is package with app for science research. 
+
+### FieldBook 
+
+Fieldbook is a interactive app for data analysis in research experiments with different statistical and multivariate analysis.
+
+### Elisios 
+
+Elisios is a web application develop for calculate the water requirements for crops according the weather information. Elisios will have the possibility to connect at meteorological station based in arduino.
 
 ## Quipu 2.0 (*in progress*)
 
-Quipu 2.0 is a book base in experience with data manipulation, collection and analisys with R and using others free softwares. Thise book will be write en spanish, because there are a many people interest in learn R but a lot the information is in english, so these book pretend help these persons.
+Quipu 2.0 is a book base in experience with data manipulation, collection and analysis with R and using others free software's. These book will be write en Spanish, because there are a many people interest in learn R but a lot the information is in English, so these book pretend help these persons.
 
 
-## Elisios (*in progress*)
-
-Elisios is a web application develop for calculate the water requirements for crops according the weater information. Elisios will have the possibility to conect at metereological estation based in arduino.
 
 
 ```{r, echo=FALSE}

@@ -6,18 +6,18 @@ navbar:
     - text: "Home"
       icon: fa-home
       href: index.html
+    - text: "FieldBook"
+      icon: fa-wrench
+      href: fieldbook.html
+    - text: "Elisios"
+      icon: fa-wrench
+      href: elisios.html
     - text: "GerminaQuant"
       icon: fa-leaf
       href: gerbook.html
     - text: "Quipu 2.0"
       icon: fa-book
       href: quibook.html
-    - text: "Elisios"
-      icon: fa-wrench
-      href: elisios.html
-    - text: "About"
-      icon: fa-info
-      href: about.html
 
       
 output:
