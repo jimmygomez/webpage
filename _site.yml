@@ -3,23 +3,27 @@ output_dir: "docs"
 navbar:
   title: "QUIPO"
   left:
+  
     - text: "Home"
       icon: fa-home
       href: index.html
+      
     - text: "FieldBook"
       icon: fa-wrench
       href: fieldbook.html
+      
     - text: "Elisios"
       icon: fa-wrench
       href: elisios.html
+      
     - text: "GerminaQuant"
       icon: fa-leaf
-      href: gerbook.html
+      href: germinaquant.html
+      
     - text: "Quipu 2.0"
       icon: fa-book
-      href: quibook.html
+      href: quipu.html
 
-      
 output:
   html_document:
     theme: cosmo

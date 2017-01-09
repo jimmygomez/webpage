@@ -5,7 +5,7 @@ title: "Quipu 2.0"
 
 ```{r, echo=FALSE}
 
-shiny::includeHTML("qb.html")
+shiny::includeHTML("book_quipu.html")
 
 ```
 

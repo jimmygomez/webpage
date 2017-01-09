@@ -5,7 +5,7 @@ title: "GerminaQuant"
 
 ```{r, echo=FALSE}
 
-shiny::includeHTML("gb.html")
+shiny::includeHTML("book_germinaquant.html")
 
 ```
 

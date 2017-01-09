@@ -4,6 +4,6 @@ title: "FieldBook"
 
 
 ```{r, echo=FALSE}
-shiny::includeHTML("fbook.html")
+shiny::includeHTML("app_fieldbook.html")
 ```
 
