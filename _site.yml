@@ -20,9 +20,9 @@ navbar:
       icon: fa-leaf
       href: germinaquant.html
       
-    - text: "Quipu 2.0"
-      icon: fa-book
-      href: quipu.html
+#    - text: "Quipu 2.0"
+#      icon: fa-book
+#      href: quipu.html
 
 output:
   html_document:

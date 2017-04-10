@@ -5,7 +5,11 @@ title: "Quipu 2.0"
 
 ```{r, echo=FALSE}
 
-shiny::includeHTML("book_quipu.html")
+shiny::HTML(
+  
+  '<iframe src="https://flavjack.github.io/quipu/" style="border: 0; position:fixed; top:50px; left:0; right:0; bottom:0; width:100%; height:92%">'
+  
+)
 
 ```
 
