@@ -4,6 +4,8 @@ navbar:
   title: "QUIPO"
   left:
   
+  # http://fontawesome.io/icons/
+  
     - text: "Home"
       icon: fa-home
       href: index.html
@@ -13,7 +15,7 @@ navbar:
       href: fieldbook.html
       
     - text: "Elisios"
-      icon: fa-wrench
+      icon: fa-cloud
       href: elisios.html
       
     - text: "GerminaQuant"
@@ -23,6 +25,14 @@ navbar:
 #    - text: "Quipu 2.0"
 #      icon: fa-book
 #      href: quipu.html
+
+    - text: "Courses"
+      icon: fa-graduation-cap
+      href: course.html
+
+    - text: "About"
+      icon: fa-info
+      href: about.html
 
 output:
   html_document:

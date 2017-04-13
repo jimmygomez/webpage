@@ -1,7 +1,6 @@
 ---
-title: "Quipu 2.0"
+title: ""
 ---
-
 
 ```{r, echo=FALSE}
 
