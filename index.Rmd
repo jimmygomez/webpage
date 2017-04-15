@@ -15,7 +15,7 @@ This website was build for share information about programming and statistics in
 
 ## **GerminaR** R package (*realesed in CRAN*)
 
-GerminaR is a R package development for study the germination process for ecophysiological, agronomic and biological studies. This package has their interactive app  **GerminaQuant for R** for statistical and graphic analysis of germination.
+GerminaR is a R package development for study the germination process for ecophysiological, agronomic and biological studies. This package has their interactive web application  **GerminaQuant for R** for statistical and graphic analysis of germination.
 
 
 <!-- ## **sapiens** R package (*in progress*) -->
@@ -25,7 +25,7 @@ GerminaR is a R package development for study the germination process for ecophy
 
 ## **FieldBook** (*realesed*) 
 
-Fieldbook is a interactive app for data analysis for research experiments with different statistical and multivariate analysis and perform for high quality graphics for scientific research.
+Fieldbook is a interactive web application for data analysis for research experiments with different statistical and multivariate analysis and perform for high quality graphics for scientific research.
 
 ## **Elisios** (*realesed*)
 
@@ -33,12 +33,12 @@ Elisios is a web application develop for calculate the crops water requirements 
 
 ## **Wanuy** (*in progress*)
 
-Wanuy help to calculate the cost and management of the crop fertilization, according the requirements if the crops.
+Wanuy help to calculate the cost and management of the crop fertilization, according the requirements of the plants.
 
 
-<!-- ## **Quipu 2.0** (*in progress*) -->
+## **Quipu 2.0** (*in progress*)
 
-<!-- Quipu 2.0 is a book base in experience with data manipulation, collection and analysis with R and using others free softwares. These book will be write en Spanish, because there are a many people interest in learn R but a lot the information are in English. -->
+Quipu 2.0 is a manual base in experience with data manipulation, collection and analysis with R and using others free softwares. These book will be write en Spanish, because there are a many people interest in learn R but a lot the information are in English.
 
 
 ```{r, echo=FALSE}

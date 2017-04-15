@@ -4,7 +4,7 @@ title: ""
 
 ## Flavio Lozano Isla
 
-I´m a professional of agricultural sciences, specializing in research and data management with knowledge in the areas of plant physiology and plant breeding using conventional and biotechnological tools with computing  and programming skills, using multiple applications to perform tasks optimally and efficiently. Leadership experience in management and coordination activities with persons of different hierarchical level.
+Agronomist engineer from the *Univerdidad Nacional Agraria la Molina, Peru* with master studies in Botany with mention in plant echophysiology in *Federal Rural University of Pernambuco, Brazil*, specializing in research and data management with knowledge in the areas of plant physiology and plant breeding using conventional and biotechnological tools with computing  and programming skills, using multiple applications to perform tasks optimally and efficiently. Leadership experience in management and coordination activities with persons of different hierarchical level.
 
 ```{r, echo=FALSE, fig.align='center'}
 shiny::includeHTML("slider.html")
