@@ -4,7 +4,7 @@ navbar:
   title: "QUIPO"
   left:
   
-  # http://fontawesome.io/icons/
+# http://fontawesome.io/icons/
   
     - text: "Home"
       icon: fa-home
@@ -22,10 +22,6 @@ navbar:
       icon: fa-leaf
       href: germinaquant.html
       
-#    - text: "Quipu 2.0"
-#      icon: fa-book
-#      href: quipu.html
-
     - text: "Courses"
       icon: fa-graduation-cap
       href: course.html
