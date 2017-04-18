@@ -27,7 +27,7 @@ navbar:
       href: course.html
 
     - text: "About"
-      icon: fa-info
+      icon: fa-info-circle
       href: about.html
 
 output:

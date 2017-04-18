@@ -6,10 +6,10 @@ This website was build for share information about programming and statistics in
 
 # Softwares used for develop
 
-- [R](https://cran.rstudio.com/)
-- [R Studio](https://www.rstudio.com/products/rstudio/download/)
-- [Mendeley](https://www.mendeley.com/)
-- [Github desktop](https://desktop.github.com/)
+- [R](https://cran.rstudio.com/){target="_blank"}
+- [R Studio](https://www.rstudio.com/products/rstudio/download/){target="_blank"}
+- [Mendeley](https://www.mendeley.com/){target="_blank"}
+- [Github desktop](https://desktop.github.com/){target="_blank"}
 
 # Projects
 
