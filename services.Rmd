@@ -1,0 +1,34 @@
+# Servicios 
+
+## Entrenamientos y capacitaciones  
+
+Se brindan cursos y capacitaciones a instituciones públicas y empresas privadas sobre el manejo y uso de herramientas en la investigación y uso de software estadístico R.
+
+  - Entrenamientos en el uso del software estadistico R.
+  - Cursos teóricos y prácticos de estadistica.
+  - Uso y manejo de datos para experimentos.
+
+## Asesorias 
+
+Aseoria y ayuda en documentos de tesis de investigacion como procesamiento y gráfica de resultados.
+
+  - Elaboración de proyecto.
+  - Manejo de base de datos bibliográficos.
+  - Asesoria en documento de tesis.
+  - Procesamiento de datos.
+  - Presentación de resultados.
+  
+## Auditorias
+
+Seguimiento y monitoreo de experimentos en campo y laboratorio así como desarrollo de presupuesto con informes continuos de las actividades.
+
+  - Informes de estados de experimentos.
+  - Desarrollo y control de presupuestos.
+  - Servicios de consultoria
+  
+## Aplicaciones y desarrollo web
+
+Desarrollo de paginas web personalizadas y aplicaciones web basada en R para actividades especificas y generales.   
+
+  - Servicios de desarrollo de aplicaciones web con R + Shiny.
+  - Paginas web interactivas.

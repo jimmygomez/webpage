@@ -25,6 +25,10 @@ navbar:
     - text: "Courses"
       icon: fa-graduation-cap
       href: course.html
+      
+    - text: "Services"
+      icon: fa-briefcase
+      href: services.html
 
     - text: "About"
       icon: fa-info-circle

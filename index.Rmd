@@ -35,11 +35,9 @@ Elisios is a web application develop for calculate the crops water requirements 
 
 Wanuy help to calculate the cost and management of the crop fertilization, according the requirements of the plants.
 
-
 ## **Quipu 2.0** (*available*)
 
 Quipu 2.0 is a manual base in experience with data management, collection and analysis with R and using others free softwares. These book will be write en Spanish, because there are a many people interest in learn R but a lot the information are in English.
-
 
 ```{r, echo=FALSE}
 shiny::includeHTML("footer.html")

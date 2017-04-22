@@ -4,11 +4,15 @@ title: ""
 
 ## FLAVIO LOZANO ISLA
 
-Agronomist engineer from the *Universidad Nacional Agraria la Molina, Peru* with master studies in Botany with mention in plant echophysiology in *Federal Rural University of Pernambuco, Brazil*, specializing in research and data management with knowledge in the areas of plant physiology and plant breeding using conventional and biotechnological tools with computing  and programming skills, using multiple applications to perform tasks optimally and efficiently. Leadership experience in management and coordination activities with persons of different hierarchical level.
+Agronomist engineer from the _Universidad Nacional Agraria la Molina, Peru_ with master studies in Botany with mention in plant echophysiology in _Federal Rural University of Pernambuco, Brazil_, specializing in research and data management with knowledge in the areas of plant physiology and plant breeding using conventional and biotechnological tools with computing  and programming skills, using multiple applications to perform tasks optimally and efficiently. Leadership experience in management and coordination activities with persons of different hierarchical level.
 
 ## JIMMY RENE GÓMEZ CARRIÓN
 
-Ingeniero agrónomo formado en la *Universidad Nacional Agraria la Molina*,  con experiencia desarrollando proyectos sustentables para la pequeña y mediana agricultura, con habilidades para la extensión e investigación agrícola, y particulaR interés por la fisiología en árboles frutales. Aficionado a la programación usando Hardware and software free y entusiasta por la música instrumental y ejecutor de lead guitar.
+Ingeniero agrónomo formado en la _Universidad Nacional Agraria la Molina, Peru_,  con experiencia desarrollando proyectos sustentables para la pequeña y mediana agricultura, con habilidades para la extensión e investigación agrícola, y particulaR interés por la fisiología en árboles frutales. Aficionado a la programación usando Hardware and software free y entusiasta por la música instrumental y ejecutor de lead guitar.
+
+## OMAR BENITES ALFARO
+
+Licenciado en Computación Científica de la _Universidad Nacional Mayor de San Marcos, Peru_. Interesado en el mundo de los datos y evangelizador del R. Trabaja en el _Centro Internacional de la Papa_ en el área de investigación informática para agricultura. Fanático del ciclismo urbano y las caminatas; le interesa charlar sobre fútbol y tecnología. Le gustan los gatos de colores.
 
 ```{r, echo=FALSE, fig.align='center'}
 shiny::includeHTML("slider.html")
