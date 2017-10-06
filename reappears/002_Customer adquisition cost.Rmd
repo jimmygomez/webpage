@@ -1,0 +1,65 @@
+___
+#Customer adquisition cost/ Costo de Adquisición de un cliente.
+
+El costo de adquisición de clientes (CAC) muestra cuánto cuesta adquirir un usuario de tu SaaS. Es una métrica clave para asegurarte de tener un modelo de negocio viable.
+
+¿Cómo medir este indicador? Para calcular el CAC, debes dividir el total de gasto en ventas y marketing (incluyendo los gastos de salarios) y dividirlos entre el número de clientes adquiridos en un periodo definido.
+
+Si gastaste $100,000 en un mes en marketing y ventas y atrajiste 50 clientes, tu CAC sería de $2,000.
+
+<https://blog.grou.com.mx/7-metricas-esenciales-en-tu-estrategia-de-marketing-para-saas>
+
+
+##converter rate optimization (CRO).
+
+uan vez atraida al _funnel_ el mayor objetivo es aumentar tu tasa de conversión y estos  continuen moviendose por el embudo.
+
+¿A la pregunta como lo vamos a lograr?, debemos mantener una web atractiva, yna estrategia CRO.
+
+1. **Funcionalidad.**
+
+>UN MENSAJE CLARO. Que te quiero decir con esto.
+>A toda costa debes evitar la presencia de errores 404, imágenes que no se muestran, enlaces rotos, tiempos de carga del sitio elevados, incompatibilidad con los navegadores, etc.
+
+2. **Accesibilidad.**
+
+>En este punto no se hace referencia a la accesibilidad conforme a la experiencia de usuario, sino más bien a si es posible acceder a tu ecommerce desde cualquier dispositivo.
+
+3. **Usabilidad.**
+
+>Se debe buscar siempre lo más fácil de usar, darle una experiencia amigable. Felicidad en la navegación.
+
+4. **Intuición.**
+
+>Adicional a lo anterior, es determinante logar que sus espectativas sean cubiertas. Por encima, de conoces ó no, el producto y/o servicio que deseas adquirir.
+
+5. **Persuación.**
+
+>para lograrlo hay que conocer los _fears_, _uncertainties_, _Doubts_ **(FUDs)** y proveer las soluciones para cada uno de los miedos, incertidumbres y dudas para  cada uno de ellos.
+
+##Mide y optimiza.
+
+Por último, no está todo dicho aún.
+
+Mide lo que pasa en tu sitio web y redes sociales, no analices sólo el contenido más compartido,  analiza también el contenido que generó más conversión y cuáles son las redes sociales que lo hacen.
+
+Pondera las métricas y repite la estrategia que generó más cotizaciones a tu web, prueba nuevos contenidos basados en las páginas más visitadas de tu sitio por los usuarios de las redes sociales.
+Para las estrategias de contenidos digitales, medir significa crear contenidos más efectivos.
+
+>¿Cuáles son los detalles que realmente los convierten en tus clientes ideales? ¿Es su puesto de trabajo? ¿El ingreso de su compañía? Su conducta importa también. Es decir, cuando un contacto ha visitado tu sitio web 10 veces en los últimos 15 días seguramente está más interesado en tu organización que alguien que lo visitó una vez hace 3 meses. Por eso importa la conducta.
+
+Es altamente recomendable usar HubSpot: " creó HubSpot Academy con un programa de certificación que ayuda a los usuarios a mantenerse al día y al mismo tiempo ganar credibilidad al convertirse en expertos reconocidos."<https://blog.hubspot.es/marketing/estrategias-de-marketing-que-funcionan-para-saas> 
+
+1. Bounce Rate/ porcentaje de rebote. aquellos que abren y se van, no se detiene a ver. dan rápidamente el _botoom back_
+
+2. Exit rate/ porcentaje de cierre. Igual que el anteriro pero ingresa a buscar un determina area de nuestra web, y comparten ese página como información útil. Es un alto exit rate.
+
+3. Average time on rate. Usuario que pasa mas tiempo, esta normalmente comprometido. *Engagement*.
+
+4. Average views. Este indicador puede reflejar una de dos cosas.
+* El usuario esta comprometido y quiere más contenido.
+* El usuario esta comprometido pero no puede ubicar rápidamente lo que esta buscando.
+
+generamente suele indicar un alto CRO.
+
+

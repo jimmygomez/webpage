@@ -1,0 +1,74 @@
+___
+##Exit strategy /Estrategía de escape.
+
+Una StartUp es como empezar una historia de Amor, vives en un mundo ideal lleno de pasión, desbordado por la dopamina; pero inevitablemente más tarde ó temprano cuando el sedante  baje a niveles promedios, surgirán las diferencias e imperfecciones. De convertirse en una matrimonio felizmente constituido, también ha pasará por una crisi matrimonial donde el _Equipo_ debe ser lo suficientemente sólido para superarlo. 
+
+###¿Qué debe tener un socio?
+
+Los ingenieros tenemos la mala costumbre de hacer ecuaciones y platear supuestos e irlos aceptando o rechanzando y entre estos es, con quien hago la StartUp ( _también se puede leer, Amor_), para el cuál planteamos dos ecuación aplicables, y consideraciones a tener a la hora de elegir a un socio y/o colaboradores.
+
+
+\[
+|\overrightarrow{\alpha_{p}}|=(\sum_{u=1}^{u=n}[Conocimiento_{u} + Habilidad_{u}])Actitud_{p}^{(a+bi)}     \hspace{0,5cm} ecuación...(I)\\    Donde:  u \in N \hspace{0,2cm} y \hspace{0,2cm} (a+bi)\in C 
+\]
+
+Filosóficamente la persona normal no existe, cada uno de nosotros somos seres únicos  y complejos. Es sin duda,  un Axioma ó verdad absoluta. Entonces cada persona tiene su propio vector alpha:
+
+\[
+|\overrightarrow{\alpha_{personal}}|
+\]
+
+<!--# \protect \scalebox{1.2}{Un voyage de vacances} -->
+
+ El fín de la matemáticas es hacer  abstraciones de la realidad, con la finalidad de lograr un cierto grado de entendimiento. A continuación vamos a darle interpretación a la ecuación planteada.
+
+
+Alpha   necesariamente debe cumplir dos condiciones, tener una magnitud (cuantitativo), y dirección (ángulo). Tomado con valor absoluto, únicamente  hace referencia a su magnitud.
+
+```r
+Alpha personal es igual a la Suma de todos tus Conocimientos y  Habilidades multiplicado por su Actitud elevado a la imaginación.
+
+```
+Se espera que los conocimientos sean variados, sólidos y  positivos al igual que sus habilidades para formar una binomio llamado  **Aptitud**. Pero no debe ser suficiente, Después de la revolución industrial la personas han dejado de ser maquinas de producción por lo cuál se  espera contar con su **Actitud** para el desarrollo de nuevos proyectos.
+
+
+Además, la **Actitud** esta potenciada por la **imaginación**  el cuál es un número complejo, es decir cuenta con una parte real y la otra compleja; si, aquella parte  que no existirá en el "mundo real". Para fraseando la idea, la imaginación potencia la Actitud siempre que cuente con su parte **real**mente desarrollable *_a_*. De contar con su parte imaginaria es fácil divagar sin que esto signifique improductiva, por el contrario, sirve de inspiración a la parte real, sin embargo  *_b_* debe tender a ser cero.
+
+Por último, la **actitud potencializada** es el factor más importante que conforma el alpha, mientras que los otros suman, la actitud multiplica.
+
+Los equipos son formados por las personas con el mayor alpha, la sumatoria debe apuntar en la dirección adecuada. Por lo cual se plantea la _ecuación II_ para la conformación de un equipo. 
+
+\[
+\perp_Equipo\equiv\sum_{p=1}^{p=q}\alpha_{p} \approx \frac{\pi}{2}  \hspace{0,4cm}   Donde:  p \in Humanidad \hspace{0,5cm} ecuación...(II)  
+\]
+
+```r
+El equipo debe ser complementario.
+
+```
+
+Es importante que las personas compartarn valores, actitudes, y vayan en la misma dirección. Y sean complementarios.
+
+###¿Un inversor es un buen socio?
+
+A esta pregunta se aplica la _ecuación I_, si buscas dinero este contaría como habilidad para hacer cosas, pues te permite contratar a alguien que tenga la aptitud para hacerlo. Sin embargo, como se ha dicho tambien debes de ver las actitudes de tu inversor. Un inversionista es precisamente por definición alguien que inverte esperando un retorno, puesto que implica un costo de oportunidad. Es decir, retornos grandes en el menor tiempo posible.
+
+Además, notar que el inversionista se limitará a aportar dinero o también participará en el direccionamiento, y este alpha, **¿Qué tan grande será con respecto a los fundadores?.** Ahora podemos decir que el alpha es directamente proporcional a la participación en la empresa. 
+
+###Pero, ¿Qué es la estrategía de escape?
+
+Son aquello cosas importantes que siempre se dicen ántes de empezar un matrimonio. Si, ¿Qué días se visitarán a la suegra?, ¿Qué horarios son para lo amigos?, ó también si las cosas no van funcionando deacuerdo a lo idealizado:  ¿Quién tiene la potestad de los niños?,  ¿Quién se queda con el perro?, y demás. O eso que te dijerón: **"El día que te deje de gustar, quiero que me lo digas".** Si, todas esas cosas que seguro nunca hiciste. 
+
+Ahora bien, habiendo desarrollado las ideas básicas de selección de un socio, siempre existirá un alto grado de incertidumbre de sus reales aspiraciones ó estás pueden variar con el tiempo y/o el dinero. Sin embargo, no debe ser motivo de cambiar la dirección intríncesa de la StartUp, caso contrario los posibles caminos son los siguientes.
+
+- Alguien adquiere dejar la StartUp, vender su participación o los tres por mutuo acuerdo quieren vender la empresa, no necesariamente el nuevo dueño continuará con la visión de los fundadores, sino por el contrario, "para demembrarla y sacar sus organos en pro de sus propios objetivos".
+
+- Otra salida podría ser que busquen una fusión, y allí una vez más debes de aplicar la _ecuación I_  y _II_, respectivamente. Conocimientos, habilidades, y Actitud; De tu nuevo socio.
+
+- En el mejor de los casos que la StartUp salga a la bolsa. pero no suele ser el caso.
+
+- El inversionista angel espera la recompra en otra ronda, es usual que los fundadores sufran algún tipo de presión para que esto ocurra. El cuál se espera que sea mayor al que él entró para optener de una buena vez ganancias.
+
+- Liquidación y cierre, esté es el momento en el que te dicen, recuerdas el días que te dije que sí uno de los dos dejaba de quererse se lo diría, ese momento ha llegado.
+
+Para cada una de estas situaciones debes de armar una estrategía de salida, seguiendo el plan según el caso.

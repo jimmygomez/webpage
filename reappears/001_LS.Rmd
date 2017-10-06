@@ -1,0 +1,42 @@
+---
+title: "Lean StartUp."
+author: "Ing. Agr. Jimmy Gomez Carrión"
+date: "25 de septiembre de 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## ¿Qué es Lean StartUp?
+
+>"El saber humano se desenvuelve en funcion a la experiencia (...). El espiritu científico excluye todo principio de autoridad".-José Ingenieros.
+
+Lean StartUp no es otro que el **Método científico**. Si, el mismo que te ha seguido toda la vida. 
+El método que:
+
+**OBSERVA-> Cuestiona-> Plantea hipótesis-> Experimenta-> Optiene conclusiones-> Documenta-> Difunde/comparte->  OBSERVA-> ...**
+
+Pero aplicada al desarrollo de una empresa que tenga en su columna vertebral: innovación (producto y/o servicio), alta aceptación en el mercado (escalabilidad), y difícilmente replicable.
+<!--
+Ántes de adentrarnos a este mundo, debo hacer una parada para la reflexión. 
+
+
+>"Los métodos no son cánones eternos, (...) conducen a resultados rectificables que constituyen conocimientos relativos".- José Ingenieros.-->
+
+_En resumen, el método **Lean StartUp** señala que: "Necesita más acción, menos palabras". Get of the building_ 
+
+Si tienes una idea salir del edificio y pon a prueba tu hipotesis, si es aceptada siga para adelante, sino rechazala, falla rápido y a bajo costo. Otra consideración importante es direccionar tus esfuerzos a un mercado específico, haciendo sombra al cliente, ( _Shadowing_) pues es él que tiene que direccionar el desarrollo y es una etapa muy dificil del Startapero degarle la razón, y entonces empieza el circulo viciosos de racionalizar las justificaciones que validan su idea, nada más errado. Y es así, como debes una vez más recordar el método científico.
+
+Al igual el investigador científico, es humano y también siente apego por tal ó cual supuesto, pero la naturaleza le es indiferente sus sentimientos al igual que el mercado, le es indistinto tú existencia. Pero, pero el sabe que eso es parte del camino, depués de un andar cabisbajo sabe que las respues no llegan solas sino se trabaja por conseguirla, y ese es el espiritu inventivo y renovador.
+
+No podemos dar por terminado el conocimiento adquirido, este es un camino largo, algunas veces tortuoso, otras con muchas flores, bosques y aves; escabroso, con días soleados y otros fríos, que  que nos llevará más lejos y a lugares insospechados y como parte del devenir  _StartUp science_ estamos en la obligación de  despojarnos de nuestras creencias, por amor a la verdad nunca debemos dar como innutable una hipótesis. El hombre de ciencia es Escéptico por naturaleza.
+<!--
+<p>He aquí un ejemplo de AppleScript:</p>
+
+<pre><code>tell application "Foo"
+    beep
+end tell
+</code></pre>
+-->

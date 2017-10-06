@@ -1,0 +1,11 @@
+
+___
+##Churn rate/Tasa de Cancelación de Clientes.
+
+
+pordefinir----
+La relación CLV:CAC muestra cuánto vale un cliente y cuánto te costó adquirirlo, en una sola métrica. La mayoría de las empresas SaaS que hacen Inbound Marketing usan este KPI para saber si son sostenibles sus estrategias de marketing.
+
+¿Cómo medir este indicador? El punto de referencia es que el CLV sea, por lo menos, tres veces mayor al CAC. Simplemente divide el CLV por el CAC que obtuviste para obtener tu razón.
+
+Como ves, no son indicadores tan complejos. Necesitas tener claro estas  métricas de marketing para que la planeación de tu estrategia digital comercial sea un éxito.

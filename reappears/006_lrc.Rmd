@@ -1,0 +1,15 @@
+___
+##lifetime revenue per customer /El Valor del Cliente de por vida (LCV)
+
+
+El Valor de Vida del Cliente (CLV) es el dinero promedio que pagan los clientes durante el tiempo que mantienen una relación con tu empresa.
+
+Esta métrica es clave para saber si tienes una estrategia efectiva para hacer crecer tu negocio. También le muestra a los inversionistas el valor de tu compañía. De forma simple, el CLV te muestra, en esencia, cuánto valor aporta un cliente para tu empresa.
+
+¿Cómo medir este indicador? Primero debes calcular el tiempo promedio que un cliente permanece con tu empresa. Para hacer esto, divide 1 entre la tasa de abandono. Si tu tasa de abandono es 1% mensual, entonces 1/0.01= 100 meses.
+
+Ahora que calculaste el tiempo de vida promedio de un cliente, debes calcular el ingreso promedio por cliente, así que divide el total de tu ingreso entre el total de clientes. Por ejemplo, si tu empresa de SaaS ingresa $500,000 mensuales con 500 clientes, el promedio son $1,000 por cliente.
+
+Ahora sí puedes calcular el CLV: multiplica el ingreso promedio por cliente por el tiempo promedio de vida. En este ejemplo, son $1,000 x 100 meses, el CLV es de $100,000.
+
+<https://blog.grou.com.mx/7-metricas-esenciales-en-tu-estrategia-de-marketing-para-saas>
